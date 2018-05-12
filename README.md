@@ -26,4 +26,4 @@ https://github.com/adafruit/Adafruit-GFX-Library Adafruit GFX Library
 
 arduino ide の library フォルダに入れて、arduino ide を起動すれば利用可能となります。
 
-
+http://mkusunoki.net/?p=7499 に製作記事を掲載しました。
