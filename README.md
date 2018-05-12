@@ -1,7 +1,8 @@
 # Si5351ClockContoller
 
-https://user-images.githubusercontent.com/4132056/39954728-d0dce88a-55fe-11e8-80e0-fd67f8863d80.jpg  
-https://user-images.githubusercontent.com/4132056/39954729-daf2d406-55fe-11e8-9507-eb83eed60f49.jpg
+![2018-05-11 20 11 12](https://user-images.githubusercontent.com/4132056/39954728-d0dce88a-55fe-11e8-80e0-fd67f8863d80.jpg)  
+![2018-05-11 20 11 00](https://user-images.githubusercontent.com/4132056/39954729-daf2d406-55fe-11e8-9507-eb83eed60f49.jpg)  
+
 
 Si5351 クロックモジュールをタッチ液晶で周波数設定できるようにした、Arduino スケッチです。
 
